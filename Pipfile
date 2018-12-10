@@ -16,6 +16,7 @@ django-rest-framework = "*"
 django-debug-toolbar = "*"
 psycopg2 = "*"
 django-registration-redux = "*"
+django-ordered-model = "*"
 
 [requires]
 python_version = "3.7"
