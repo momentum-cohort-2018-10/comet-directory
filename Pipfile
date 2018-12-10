@@ -5,11 +5,14 @@ verify_ssl = true
 
 [dev-packages]
 ipython = "*"
+prospector = "*"
+yapf = "*"
 
 [packages]
 django = "*"
 django-extensions = "*"
 django-rest-framework = "*"
+django-debug-toolbar = "*"
 
 [requires]
 python_version = "3.7"
