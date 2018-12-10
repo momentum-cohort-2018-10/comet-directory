@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python -W ignore::UserWarning:psycopg2
 import os
 import sys
 
